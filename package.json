@@ -91,7 +91,7 @@
 		"jsonlint": "^1.6.3",
 		"strip-bom": "^3.0.0",
 		"strip-json-comments": "^3.0.1",
-		"vscode-extension-telemetry": "^0.1.2"
+		"vscode-extension-telemetry": "^0.4.3"
 	},
 	"devDependencies": {
 		"@types/mocha": "^5.2.7",
